@@ -1,0 +1,13 @@
+/* for mac image */
+
+img{
+    width: 500px;
+}
+
+/* for table border */
+.border{
+    border: 1px solid white !important;
+    border-bottom: 2px solid black !important;
+}
+
+
